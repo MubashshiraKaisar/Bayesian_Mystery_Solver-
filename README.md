@@ -1,1 +1,1 @@
-# Bayesian_Mystery_Solver-
+# Bayesian_Mystery_Solver
